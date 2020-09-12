@@ -1,0 +1,12 @@
+C:\Users\Raj\source\repos\check prime or not\bin\Debug\`.exe.config
+C:\Users\Raj\source\repos\check prime or not\bin\Debug\`.exe
+C:\Users\Raj\source\repos\check prime or not\bin\Debug\`.pdb
+C:\Users\Raj\source\repos\check prime or not\bin\Debug\`.xml
+C:\Users\Raj\source\repos\check prime or not\obj\Debug\check prime or not.vbprojAssemblyReference.cache
+C:\Users\Raj\source\repos\check prime or not\obj\Debug\check_prime_or_not.Resources.resources
+C:\Users\Raj\source\repos\check prime or not\obj\Debug\check prime or not.vbproj.GenerateResource.cache
+C:\Users\Raj\source\repos\check prime or not\obj\Debug\check prime or not.vbproj.CoreCompileInputs.cache
+C:\Users\Raj\source\repos\check prime or not\obj\Debug\`.exe
+C:\Users\Raj\source\repos\check prime or not\obj\Debug\`.xml
+C:\Users\Raj\source\repos\check prime or not\obj\Debug\`.pdb
+C:\Users\Raj\source\repos\check prime or not\obj\Debug\check_prime_or_not.Prime.resources

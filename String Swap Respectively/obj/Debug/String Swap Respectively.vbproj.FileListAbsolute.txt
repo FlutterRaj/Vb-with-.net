@@ -1,0 +1,12 @@
+C:\Users\Raj\source\repos\String Swap Respectively\bin\Debug\String Swap Respectively.exe.config
+C:\Users\Raj\source\repos\String Swap Respectively\bin\Debug\String Swap Respectively.exe
+C:\Users\Raj\source\repos\String Swap Respectively\bin\Debug\String Swap Respectively.pdb
+C:\Users\Raj\source\repos\String Swap Respectively\bin\Debug\String Swap Respectively.xml
+C:\Users\Raj\source\repos\String Swap Respectively\obj\Debug\String_Swap_Respectively.Form1.resources
+C:\Users\Raj\source\repos\String Swap Respectively\obj\Debug\String_Swap_Respectively.Resources.resources
+C:\Users\Raj\source\repos\String Swap Respectively\obj\Debug\String Swap Respectively.vbproj.GenerateResource.cache
+C:\Users\Raj\source\repos\String Swap Respectively\obj\Debug\String Swap Respectively.vbproj.CoreCompileInputs.cache
+C:\Users\Raj\source\repos\String Swap Respectively\obj\Debug\String Swap Respectively.exe
+C:\Users\Raj\source\repos\String Swap Respectively\obj\Debug\String Swap Respectively.xml
+C:\Users\Raj\source\repos\String Swap Respectively\obj\Debug\String Swap Respectively.pdb
+C:\Users\Raj\source\repos\String Swap Respectively\obj\Debug\String Swap Respectively.vbprojAssemblyReference.cache

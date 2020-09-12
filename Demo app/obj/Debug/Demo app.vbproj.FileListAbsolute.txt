@@ -1,0 +1,12 @@
+C:\Users\Raj\source\repos\Demo app\bin\Debug\Demo app.exe.config
+C:\Users\Raj\source\repos\Demo app\bin\Debug\Demo app.exe
+C:\Users\Raj\source\repos\Demo app\bin\Debug\Demo app.pdb
+C:\Users\Raj\source\repos\Demo app\bin\Debug\Demo app.xml
+C:\Users\Raj\source\repos\Demo app\obj\Debug\Demo app.vbprojAssemblyReference.cache
+C:\Users\Raj\source\repos\Demo app\obj\Debug\Demo_app.Form1.resources
+C:\Users\Raj\source\repos\Demo app\obj\Debug\Demo_app.Resources.resources
+C:\Users\Raj\source\repos\Demo app\obj\Debug\Demo app.vbproj.GenerateResource.cache
+C:\Users\Raj\source\repos\Demo app\obj\Debug\Demo app.vbproj.CoreCompileInputs.cache
+C:\Users\Raj\source\repos\Demo app\obj\Debug\Demo app.exe
+C:\Users\Raj\source\repos\Demo app\obj\Debug\Demo app.xml
+C:\Users\Raj\source\repos\Demo app\obj\Debug\Demo app.pdb

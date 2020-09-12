@@ -1,3 +1,5 @@
+# Fork and Pull Request
+You can make a pull request. If you think any code snippets are missing or wrong, contact me or create a pull request. 
 # Vb-with-.net
 Visual Basic .NET is a multi-paradigm, object-oriented programming language, implemented on the .NET Framework. Microsoft launched VB.NET in 2002 as the successor to its original Visual Basic language.
 # 1. Module I: Visual Basic .NET and the .NET Framework (8L)

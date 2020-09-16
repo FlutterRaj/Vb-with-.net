@@ -1,0 +1,12 @@
+C:\Users\Raj\source\repos\Amstrong Number\bin\Debug\Amstrong Number.exe.config
+C:\Users\Raj\source\repos\Amstrong Number\bin\Debug\Amstrong Number.exe
+C:\Users\Raj\source\repos\Amstrong Number\bin\Debug\Amstrong Number.pdb
+C:\Users\Raj\source\repos\Amstrong Number\bin\Debug\Amstrong Number.xml
+C:\Users\Raj\source\repos\Amstrong Number\obj\Debug\Amstrong Number.vbprojAssemblyReference.cache
+C:\Users\Raj\source\repos\Amstrong Number\obj\Debug\Amstrong_Number.Form1.resources
+C:\Users\Raj\source\repos\Amstrong Number\obj\Debug\Amstrong_Number.Resources.resources
+C:\Users\Raj\source\repos\Amstrong Number\obj\Debug\Amstrong Number.vbproj.GenerateResource.cache
+C:\Users\Raj\source\repos\Amstrong Number\obj\Debug\Amstrong Number.vbproj.CoreCompileInputs.cache
+C:\Users\Raj\source\repos\Amstrong Number\obj\Debug\Amstrong Number.exe
+C:\Users\Raj\source\repos\Amstrong Number\obj\Debug\Amstrong Number.xml
+C:\Users\Raj\source\repos\Amstrong Number\obj\Debug\Amstrong Number.pdb

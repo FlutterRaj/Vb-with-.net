@@ -1,0 +1,12 @@
+C:\Users\Raj\source\repos\palindrome\bin\Debug\palindrome.exe.config
+C:\Users\Raj\source\repos\palindrome\bin\Debug\palindrome.exe
+C:\Users\Raj\source\repos\palindrome\bin\Debug\palindrome.pdb
+C:\Users\Raj\source\repos\palindrome\bin\Debug\palindrome.xml
+C:\Users\Raj\source\repos\palindrome\obj\Debug\palindrome.vbprojAssemblyReference.cache
+C:\Users\Raj\source\repos\palindrome\obj\Debug\palindrome.Form1.resources
+C:\Users\Raj\source\repos\palindrome\obj\Debug\palindrome.Resources.resources
+C:\Users\Raj\source\repos\palindrome\obj\Debug\palindrome.vbproj.GenerateResource.cache
+C:\Users\Raj\source\repos\palindrome\obj\Debug\palindrome.vbproj.CoreCompileInputs.cache
+C:\Users\Raj\source\repos\palindrome\obj\Debug\palindrome.exe
+C:\Users\Raj\source\repos\palindrome\obj\Debug\palindrome.xml
+C:\Users\Raj\source\repos\palindrome\obj\Debug\palindrome.pdb

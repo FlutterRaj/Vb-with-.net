@@ -1,0 +1,12 @@
+C:\Users\Raj\source\repos\neon number\bin\Debug\neon number.exe.config
+C:\Users\Raj\source\repos\neon number\bin\Debug\neon number.exe
+C:\Users\Raj\source\repos\neon number\bin\Debug\neon number.pdb
+C:\Users\Raj\source\repos\neon number\bin\Debug\neon number.xml
+C:\Users\Raj\source\repos\neon number\obj\Debug\neon number.vbprojAssemblyReference.cache
+C:\Users\Raj\source\repos\neon number\obj\Debug\neon_number.Form1.resources
+C:\Users\Raj\source\repos\neon number\obj\Debug\neon_number.Resources.resources
+C:\Users\Raj\source\repos\neon number\obj\Debug\neon number.vbproj.GenerateResource.cache
+C:\Users\Raj\source\repos\neon number\obj\Debug\neon number.vbproj.CoreCompileInputs.cache
+C:\Users\Raj\source\repos\neon number\obj\Debug\neon number.exe
+C:\Users\Raj\source\repos\neon number\obj\Debug\neon number.xml
+C:\Users\Raj\source\repos\neon number\obj\Debug\neon number.pdb

@@ -1,0 +1,12 @@
+C:\Users\Raj\source\repos\anagram integer\bin\Debug\anagram integer.exe.config
+C:\Users\Raj\source\repos\anagram integer\bin\Debug\anagram integer.exe
+C:\Users\Raj\source\repos\anagram integer\bin\Debug\anagram integer.pdb
+C:\Users\Raj\source\repos\anagram integer\bin\Debug\anagram integer.xml
+C:\Users\Raj\source\repos\anagram integer\obj\Debug\anagram integer.vbprojAssemblyReference.cache
+C:\Users\Raj\source\repos\anagram integer\obj\Debug\anagram_integer.Form1.resources
+C:\Users\Raj\source\repos\anagram integer\obj\Debug\anagram_integer.Resources.resources
+C:\Users\Raj\source\repos\anagram integer\obj\Debug\anagram integer.vbproj.GenerateResource.cache
+C:\Users\Raj\source\repos\anagram integer\obj\Debug\anagram integer.vbproj.CoreCompileInputs.cache
+C:\Users\Raj\source\repos\anagram integer\obj\Debug\anagram integer.exe
+C:\Users\Raj\source\repos\anagram integer\obj\Debug\anagram integer.xml
+C:\Users\Raj\source\repos\anagram integer\obj\Debug\anagram integer.pdb

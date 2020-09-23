@@ -1,0 +1,12 @@
+C:\Users\Raj\source\repos\nearest repetative value\bin\Debug\nearest repetative value.exe.config
+C:\Users\Raj\source\repos\nearest repetative value\bin\Debug\nearest repetative value.exe
+C:\Users\Raj\source\repos\nearest repetative value\bin\Debug\nearest repetative value.pdb
+C:\Users\Raj\source\repos\nearest repetative value\bin\Debug\nearest repetative value.xml
+C:\Users\Raj\source\repos\nearest repetative value\obj\Debug\nearest repetative value.vbprojAssemblyReference.cache
+C:\Users\Raj\source\repos\nearest repetative value\obj\Debug\nearest_repetative_value.Form1.resources
+C:\Users\Raj\source\repos\nearest repetative value\obj\Debug\nearest_repetative_value.Resources.resources
+C:\Users\Raj\source\repos\nearest repetative value\obj\Debug\nearest repetative value.vbproj.GenerateResource.cache
+C:\Users\Raj\source\repos\nearest repetative value\obj\Debug\nearest repetative value.vbproj.CoreCompileInputs.cache
+C:\Users\Raj\source\repos\nearest repetative value\obj\Debug\nearest repetative value.exe
+C:\Users\Raj\source\repos\nearest repetative value\obj\Debug\nearest repetative value.xml
+C:\Users\Raj\source\repos\nearest repetative value\obj\Debug\nearest repetative value.pdb

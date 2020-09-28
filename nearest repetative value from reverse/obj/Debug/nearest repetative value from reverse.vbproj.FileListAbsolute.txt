@@ -1,0 +1,12 @@
+C:\Users\Raj\source\repos\nearest repetative value from reverse\bin\Debug\nearest repetative value from reverse.exe.config
+C:\Users\Raj\source\repos\nearest repetative value from reverse\bin\Debug\nearest repetative value from reverse.exe
+C:\Users\Raj\source\repos\nearest repetative value from reverse\bin\Debug\nearest repetative value from reverse.pdb
+C:\Users\Raj\source\repos\nearest repetative value from reverse\bin\Debug\nearest repetative value from reverse.xml
+C:\Users\Raj\source\repos\nearest repetative value from reverse\obj\Debug\nearest repetative value from reverse.vbprojAssemblyReference.cache
+C:\Users\Raj\source\repos\nearest repetative value from reverse\obj\Debug\nearest_repetative_value_from_reverse.Form1.resources
+C:\Users\Raj\source\repos\nearest repetative value from reverse\obj\Debug\nearest_repetative_value_from_reverse.Resources.resources
+C:\Users\Raj\source\repos\nearest repetative value from reverse\obj\Debug\nearest repetative value from reverse.vbproj.GenerateResource.cache
+C:\Users\Raj\source\repos\nearest repetative value from reverse\obj\Debug\nearest repetative value from reverse.vbproj.CoreCompileInputs.cache
+C:\Users\Raj\source\repos\nearest repetative value from reverse\obj\Debug\nearest repetative value from reverse.exe
+C:\Users\Raj\source\repos\nearest repetative value from reverse\obj\Debug\nearest repetative value from reverse.xml
+C:\Users\Raj\source\repos\nearest repetative value from reverse\obj\Debug\nearest repetative value from reverse.pdb
